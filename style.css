@@ -1,0 +1,17 @@
+@media ( max-width:768px){
+    #nav{
+        display: none;
+    }
+    .form-control{
+        display: none;
+    }
+}
+#fixed{
+    position: fixed;
+}
+@media ( max-width:320px){
+    #messanger{
+        display: none;
+    }
+   
+}
